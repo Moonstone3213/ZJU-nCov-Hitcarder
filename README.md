@@ -2,8 +2,6 @@
 
 浙大nCov肺炎健康打卡定时自动脚本 
 
-forked from [Tishacy/ZJU-nCov-Hitcarder](https://github.com/Tishacy/ZJU-nCov-Hitcarder)
-
 # Sample .yml
 
 ```yml
